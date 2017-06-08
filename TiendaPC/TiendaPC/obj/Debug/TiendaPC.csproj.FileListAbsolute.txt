@@ -1,0 +1,2 @@
+c:\users\ali\documents\visual studio 2015\Projects\TiendaPC\TiendaPC\bin\Debug\TiendaPC.exe.config
+c:\users\ali\documents\visual studio 2015\Projects\TiendaPC\TiendaPC\obj\Debug\TiendaPC.csprojResolveAssemblyReference.cache
